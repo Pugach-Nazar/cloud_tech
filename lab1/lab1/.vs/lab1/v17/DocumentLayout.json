@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A88529D-49A4-497F-8ABC-1CC5D39715B5}|lab1\\lab1.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A88529D-49A4-497F-8ABC-1CC5D39715B5}|lab1\\lab1.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A88529D-49A4-497F-8ABC-1CC5D39715B5}|lab1\\lab1.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A88529D-49A4-497F-8ABC-1CC5D39715B5}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A88529D-49A4-497F-8ABC-1CC5D39715B5}|lab1\\lab1.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A88529D-49A4-497F-8ABC-1CC5D39715B5}|lab1\\lab1.csproj|solutionrelative:lab1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "lab1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "lab1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T17:59:43.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "lab1\\Program.cs",
               "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\Program.cs",
               "RelativeToolTip": "lab1\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T11:42:36.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\appsettings.json",
-              "RelativeDocumentMoniker": "lab1\\appsettings.json",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab1\\lab1\\lab1\\appsettings.json",
-              "RelativeToolTip": "lab1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T11:42:39.623Z",
               "EditorCaption": ""
             }
           ]
