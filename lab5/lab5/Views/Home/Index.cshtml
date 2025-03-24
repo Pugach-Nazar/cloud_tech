@@ -1,0 +1,46 @@
+﻿@model lab5.Models.TextInputModel
+
+<h2>Text Analysis and Entity Recognition</h2>
+
+<form asp-action="Analyze" method="post">
+    <div class="form-group">
+        <label for="Text">Enter text:</label>
+        <textarea class="form-control" id="Text" name="Text" rows="4">@Model?.Text</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Analyze</button>
+</form>
+
+@if (Model?.Entities?.Count > 0)
+{
+    <h3 class="mt-4">Recognized Entities:</h3>
+    <table class="table table-bordered mt-2">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Source</th>
+                <th>URL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var entity in Model.Entities)
+            {
+                <tr>
+                    <td>@entity.Name</td>
+                    <td>@entity.DataSource</td>
+                    <td><a href="@entity.Url" target="_blank">Link</a></td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <strong>Matches:</strong>
+                        <ul>
+                            @foreach (var match in entity.Matches)
+                            {
+                                <li>@match.Text (Confidence: @match.ConfidenceScore.ToString("F2"))</li>
+                            }
+                        </ul>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

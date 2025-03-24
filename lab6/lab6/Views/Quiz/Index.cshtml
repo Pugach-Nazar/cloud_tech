@@ -1,0 +1,40 @@
+﻿@model lab6.Models.QuizModel
+
+<h2>Language Learning Quiz</h2>
+
+<form asp-action="GenerateQuiz" method="post">
+    <div class="form-group">
+        <label for="Text">Enter a sentence in a foreign language:</label>
+        <textarea class="form-control" id="Text" name="Text" rows="4">@Model?.Text</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Generate Quiz</button>
+</form>
+
+@if (Model?.Questions?.Count > 0)
+{
+    <h3 class="mt-4">Generated Questions:</h3>
+    <ul>
+        @foreach (var question in Model.Questions)
+        {
+            <li>
+                <strong>@question.Question</strong> <br />
+                <em>Confidence Score:</em> @question.ConfidenceScore.ToString("F2") <br />
+                <button class="btn btn-secondary btn-sm mt-1" onclick="toggleAnswer(this)">Show Answer</button>
+                <span class="answer" style="display: none;"> <em>Answer:</em> @question.Answer</span>
+            </li>
+        }
+    </ul>
+}
+
+<script>
+    function toggleAnswer(button) {
+        var answer = button.nextElementSibling;
+        if (answer.style.display === "none") {
+            answer.style.display = "inline";
+            button.textContent = "Hide Answer";
+        } else {
+            answer.style.display = "none";
+            button.textContent = "Show Answer";
+        }
+    }
+</script>
