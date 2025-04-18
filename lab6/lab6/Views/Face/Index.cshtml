@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Immersive Reader Input";
+}
+
+<div class="container py-4">
+    <h2 class="mb-4 text-center">Immersive Reader Demo</h2>
+
+    <form onsubmit="launchImmersiveReader(event)" class="card shadow-sm p-4 mb-5">
+        <div class="mb-3">
+            <label for="userInput" class="form-label">Enter text to read:</label>
+            <textarea id="userInput" class="form-control" rows="6" placeholder="Type your text here..."></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Launch Immersive Reader
+        </button>
+    </form>
+
+    <div id="ir-content" lang="en-us" style="display: none;"></div>
+    @* uk-UA *@
+
+    <h4 class="mt-5 text-center">What is Immersive Reader?</h4>
+    <p class="text-muted text-center">
+        Immersive Reader helps improve reading comprehension by offering read-aloud features, translation, and visual aids.
+    </p>
+</div>
+
+@section Scripts {
+    <script src="https://ircdname.azureedge.net/immersivereadersdk/immersive-reader-sdk.1.4.0.js"></script>
+    <script>
+        async function getTokenAndSubdomainAsync() {
+            try {
+                const response = await fetch('@Url.Action("GetTokenAndSubdomain", "Home")');
+                const data = await response.json();
+
+                if (data.error) throw new Error(data.error);
+                return data;
+            } catch (error) {
+                console.error("Error getting token and subdomain:", error);
+                alert("Failed to get token and subdomain.");
+                throw error;
+            }
+        }
+
+        async function launchImmersiveReader(event) {
+            event.preventDefault();
+
+            const userInput = document.getElementById("userInput").value;
+            if (!userInput.trim()) {
+                alert("Please enter some text first.");
+                return;
+            }
+
+            document.getElementById("ir-content").innerHTML = `<p>${userInput.replace(/\n/g, "<br>")}</p>`;
+
+            try {
+                const response = await getTokenAndSubdomainAsync();
+                const token = response.token;
+                const subdomain = response.subdomain;
+
+                const data = {
+                    title: "Your Text",
+                    chunks: [{
+                        content: document.getElementById("ir-content").innerHTML,
+                        mimeType: "text/html"
+                    }]
+                };
+
+                const options = {
+                    onExit: () => console.log("Immersive Reader closed."),
+                    uiZIndex: 2000
+                };
+
+                ImmersiveReader.launchAsync(token, subdomain, data, options)
+                    .catch(error => {
+                        console.error("Error launching Immersive Reader:", error);
+                        alert("Could not launch Immersive Reader.");
+                    });
+
+            } catch (error) {
+                console.error("Unexpected error:", error);
+            }
+        }
+    </script>
+}

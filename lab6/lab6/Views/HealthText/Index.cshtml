@@ -1,0 +1,85 @@
+﻿@model lab6.Models.HealthTextModel
+
+@{
+    ViewData["Title"] = "Health Text Analysis";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Analyze" method="post">
+    <div class="form-group">
+        <label for="InputText">Input Text</label>
+        <textarea id="InputText" name="InputText" class="form-control" rows="5">@Model.InputText</textarea>
+        @if (ViewData.ModelState["InputText"]?.Errors.Count > 0)
+        {
+            <span class="text-danger">@ViewData.ModelState["InputText"].Errors[0].ErrorMessage</span>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Analyze</button>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(Model.OutputText))
+{
+    <hr />
+    <h3>Processed Text</h3>
+    <div>@Html.Raw(Model.OutputText)</div>
+
+    @if (Model.MedicalEntities != null && Model.MedicalEntities.Any()){
+        <hr />
+        <h3>Extracted Medical Information</h3>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Entity</th>
+                    <th>Category</th>
+                    <th>Confidence Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var entity in Model.MedicalEntities)
+                {
+                    <tr>
+                        <td>@entity.Text</td>
+                        <td>@entity.Category</td>
+                        <td>@entity.ConfidenceScore.ToString("P1")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    @if (Model.MedicalRelations != null && Model.MedicalRelations.Any())
+    {
+        <hr />
+        <h3>Extracted Medical Relations</h3>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Relation Type</th>
+                    <th>Role Name</th>
+                    <th>Entity</th>
+                    <th>Category</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var relation in Model.MedicalRelations)
+                {
+                    bool firstRow = true;
+                    @foreach (var role in relation.Roles)
+                    {
+                        <tr>
+                            @if (firstRow)
+                            {
+                                <td rowspan="@relation.Roles.Count">@relation.RelationType</td>
+                                firstRow = false;
+                            }
+                            <td>@role.RoleName</td>
+                            <td>@role.EntityText</td>
+                            <td>@role.EntityCategory</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    }
+}

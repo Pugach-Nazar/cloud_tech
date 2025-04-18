@@ -39,3 +39,13 @@ D:\Навчання\cloudtech\lab6\lab6\obj\Debug\net8.0\refint\lab6.dll
 D:\Навчання\cloudtech\lab6\lab6\obj\Debug\net8.0\lab6.pdb
 D:\Навчання\cloudtech\lab6\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
 D:\Навчання\cloudtech\lab6\lab6\obj\Debug\net8.0\ref\lab6.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Azure.AI.Translation.Text.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\System.ClientModel.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Навчання\cloudtech\lab6\lab6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll

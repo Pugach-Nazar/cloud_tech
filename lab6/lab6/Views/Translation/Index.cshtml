@@ -1,0 +1,33 @@
+﻿@model lab6.Models.TranslationModel
+@{
+    ViewData["Title"] = "Text Translator";
+}
+
+<h2>Text Translator</h2>
+
+<form asp-action="Translate" method="post">
+    <div class="form-group">
+        <label for="text">Enter text to translate:</label>
+        <textarea class="form-control" id="text" name="Text" rows="3">@Model.Text</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="targetLanguage">Select target language:</label>
+        <select class="form-control" id="targetLanguage" name="SelectedLanguage">
+            @foreach (var lang in Model.AvailableLanguages)
+            {
+                <option value="@lang.Key" selected="@(Model.SelectedLanguage == lang.Key ? "selected" : null)">
+                    @lang.Value (@lang.Key)
+                </option>
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Translate</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.TranslatedText))
+{
+    <h3>Translation Result:</h3>
+    <p><strong>Translated Text:</strong> @Model.TranslatedText</p>
+}

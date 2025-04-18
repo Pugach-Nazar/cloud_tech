@@ -1,0 +1,32 @@
+﻿@model lab6.Models.OCRResultModel
+
+<div class="container py-4">
+    <h2 class="mb-4 text-center">Text Recognition</h2>
+
+    <form asp-action="Index" method="post" enctype="multipart/form-data" class="card shadow-sm p-4 mb-5">
+        <div class="mb-3">
+            <label for="file" class="form-label">Upload an image:</label>
+            <input type="file" class="form-control" id="file" name="file" />
+        </div>
+        <button type="submit" class="btn btn-success">Analyze</button>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.FullText))
+    {
+        <h3 class="mb-4 text-center">Recognition Result</h3>
+
+        <div class="card shadow-sm">
+            <div class="row g-0">
+                <div class="col-md-5 d-flex align-items-center justify-content-center p-3">
+                    <img src="@Model.ImagePath" alt="Uploaded image" class="img-fluid rounded border" style="max-height: 250px;" />
+                </div>
+                <div class="col-md-7">
+                    <div class="card-body">
+                        <h5 class="card-title">Extracted Text</h5>
+                        <p class="card-text">@Model.FullText</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

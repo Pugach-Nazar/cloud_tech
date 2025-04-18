@@ -7,36 +7,96 @@
       "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\pii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\pii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\piimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\piimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\face\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\face\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\facecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\facecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\imageanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\imageanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\ocrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\ocrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\imageanalysis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\imageanalysis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\ocr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\ocr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\facedetectionresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\facedetectionresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\imageanalysisresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\imageanalysisresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\ocrresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\ocrresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\translation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\translation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\translationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\translationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\views\\healthtext\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:views\\healthtext\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\controllers\\healthtextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:controllers\\healthtextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\healthtextmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\healthtextmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\services\\translationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:services\\translationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|d:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1E464E-5D88-4D2E-AD73-71239320CDFE}|lab6.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,8 +105,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 943,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,117 +126,292 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PII.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\PII.cs",
-              "RelativeDocumentMoniker": "Models\\PII.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\PII.cs",
-              "RelativeToolTip": "Models\\PII.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:38:30.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Quiz\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Quiz\\Index.cshtml",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Quiz\\Index.cshtml",
-              "RelativeToolTip": "Views\\Quiz\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T15:55:58.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuizModel.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizModel.cs",
-              "RelativeDocumentMoniker": "Models\\QuizModel.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizModel.cs",
-              "RelativeToolTip": "Models\\QuizModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:54:44.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuizController.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\QuizController.cs",
-              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\QuizController.cs",
-              "RelativeToolTip": "Controllers\\QuizController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:53:02.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T14:21:09.424Z",
+              "WhenOpened": "2025-04-17T14:58:02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PIIModel.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\PIIModel.cs",
-              "RelativeDocumentMoniker": "Models\\PIIModel.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\PIIModel.cs",
-              "RelativeToolTip": "Models\\PIIModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FaceController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\FaceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FaceController.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\FaceController.cs",
+              "RelativeToolTip": "Controllers\\FaceController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:38:09.857Z"
+              "WhenOpened": "2025-04-11T13:34:59.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:11:16.017Z"
+              "WhenOpened": "2025-04-09T19:17:36.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwF4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T17:08:24.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "QuizQuestion.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizQuestion.cs",
-              "RelativeDocumentMoniker": "Models\\QuizQuestion.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizQuestion.cs",
-              "RelativeToolTip": "Models\\QuizQuestion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:54:13.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:33:08.285Z"
+              "WhenOpened": "2025-04-14T17:36:59.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OCRController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\OCRController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OCRController.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\OCRController.cs",
+              "RelativeToolTip": "Controllers\\OCRController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:41:39.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageAnalysisController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\ImageAnalysisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImageAnalysisController.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\ImageAnalysisController.cs",
+              "RelativeToolTip": "Controllers\\ImageAnalysisController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:50:20.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Face\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Face\\Index.cshtml",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Face\\Index.cshtml",
+              "RelativeToolTip": "Views\\Face\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T13:35:30.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\OCR\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\OCR\\Index.cshtml",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\OCR\\Index.cshtml",
+              "RelativeToolTip": "Views\\OCR\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T12:19:12.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\ImageAnalysis\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ImageAnalysis\\Index.cshtml",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\ImageAnalysis\\Index.cshtml",
+              "RelativeToolTip": "Views\\ImageAnalysis\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T12:45:50.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T13:55:51.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FaceDetectionResultModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\FaceDetectionResultModel.cs",
+              "RelativeDocumentMoniker": "Models\\FaceDetectionResultModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\FaceDetectionResultModel.cs",
+              "RelativeToolTip": "Models\\FaceDetectionResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:02:56.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageAnalysisResultModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\ImageAnalysisResultModel.cs",
+              "RelativeDocumentMoniker": "Models\\ImageAnalysisResultModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\ImageAnalysisResultModel.cs",
+              "RelativeToolTip": "Models\\ImageAnalysisResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:10:30.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OCRResultModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\OCRResultModel.cs",
+              "RelativeDocumentMoniker": "Models\\OCRResultModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\OCRResultModel.cs",
+              "RelativeToolTip": "Models\\OCRResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:20:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Translation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Translation\\Index.cshtml",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\Translation\\Index.cshtml",
+              "RelativeToolTip": "Views\\Translation\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T13:14:45.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TranslationController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\TranslationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TranslationController.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\TranslationController.cs",
+              "RelativeToolTip": "Controllers\\TranslationController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:14:03.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\HealthText\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HealthText\\Index.cshtml",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Views\\HealthText\\Index.cshtml",
+              "RelativeToolTip": "Views\\HealthText\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T13:00:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HealthTextController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\HealthTextController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthTextController.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Controllers\\HealthTextController.cs",
+              "RelativeToolTip": "Controllers\\HealthTextController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAswJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:37:11.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HealthTextModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\HealthTextModel.cs",
+              "RelativeDocumentMoniker": "Models\\HealthTextModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\HealthTextModel.cs",
+              "RelativeToolTip": "Models\\HealthTextModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:57:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TranslationModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\TranslationModel.cs",
+              "RelativeDocumentMoniker": "Models\\TranslationModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\TranslationModel.cs",
+              "RelativeToolTip": "Models\\TranslationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:01:14.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuizModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizModel.cs",
+              "RelativeDocumentMoniker": "Models\\QuizModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizModel.cs",
+              "RelativeToolTip": "Models\\QuizModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:01:12.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "Models\\QuizQuestion.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\QuizQuestion.cs",
+              "RelativeToolTip": "Models\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:01:13.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TranslationService.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Services\\TranslationService.cs",
+              "RelativeDocumentMoniker": "Services\\TranslationService.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Services\\TranslationService.cs",
+              "RelativeToolTip": "Services\\TranslationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:51:25.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\cloudtech\\lab6\\lab6\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:10:24.148Z"
             }
           ]
         }

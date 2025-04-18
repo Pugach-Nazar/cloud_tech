@@ -1,5 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\faces\face_1.png
+wwwroot\images\faces\face_2.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -58,3 +60,8 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\uploads\bloh_1-1.jpg
+wwwroot\uploads\fasting.webp
+wwwroot\uploads\figure-65.png
+wwwroot\uploads\photo_2025-04-07_12-30-18.jpg
+wwwroot\uploads\photo_2025-04-11_15-48-02.jpg

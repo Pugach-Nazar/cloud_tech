@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ybZDsK8m4B48Fcw4g1etiuDk8UTCvgC9RuGG9jil+8c=",
+  "Hash": "e18TRUkecvFSID0n4LWvEnuZAybqc+9f+DFmMXHCM8c=",
   "Source": "lab6",
   "BasePath": "_content/lab6",
   "Mode": "Default",
@@ -99,6 +99,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_1.png",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "images/faces/face_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pnar2gb3iv",
+      "Integrity": "tWAf8raPnbpSKV6d1tF7XL3prmUMz1vtZOVtKTudTQg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\faces\\face_1.png"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_2.png",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "images/faces/face_2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwqjrz1y0g",
+      "Integrity": "6wXaULtqJWZYQ83d0v7Ym+jZc8qTrtltVOH+r1U5k4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\faces\\face_2.png"
     },
     {
       "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\js\\site.js",
@@ -1317,6 +1359,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\bloh_1-1.jpg",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "uploads/bloh_1-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dgeavkdcf0",
+      "Integrity": "rYbE4BRUcU5fYB84BlLY8TltA1osEUDOXo5JFeO67Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bloh_1-1.jpg"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\fasting.webp",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "uploads/fasting#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ydyeenwy0",
+      "Integrity": "HbHIixSfjQgOYGnp/lo4wUIdrC8dacfFMirwytQWrBA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fasting.webp"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\figure-65.png",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "uploads/figure-65#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rhg4rlloj",
+      "Integrity": "IOIywCEQkhTpcHtsOlj02do1ZjqkV2PmTrYy3NXrzS8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\figure-65.png"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-07_12-30-18.jpg",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "uploads/photo_2025-04-07_12-30-18#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kx6beqw6l1",
+      "Integrity": "2O2zs5hptMETQ50L7oOYJvSu03Jry4L2nzRj2Z3q6RQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\photo_2025-04-07_12-30-18.jpg"
+    },
+    {
+      "Identity": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-11_15-48-02.jpg",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "uploads/photo_2025-04-11_15-48-02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "22uo8b7jw9",
+      "Integrity": "KvIfQAzCrfAP8nWz5jXJ2LHv0klOMhmm2hfsyMIUvUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\photo_2025-04-11_15-48-02.jpg"
     }
   ],
   "Endpoints": [
@@ -1485,6 +1632,170 @@
       ]
     },
     {
+      "Route": "images/faces/face_1.pnar2gb3iv.png",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tWAf8raPnbpSKV6d1tF7XL3prmUMz1vtZOVtKTudTQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pnar2gb3iv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/faces/face_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tWAf8raPnbpSKV6d1tF7XL3prmUMz1vtZOVtKTudTQg="
+        }
+      ]
+    },
+    {
+      "Route": "images/faces/face_1.png",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tWAf8raPnbpSKV6d1tF7XL3prmUMz1vtZOVtKTudTQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tWAf8raPnbpSKV6d1tF7XL3prmUMz1vtZOVtKTudTQg="
+        }
+      ]
+    },
+    {
+      "Route": "images/faces/face_2.bwqjrz1y0g.png",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6wXaULtqJWZYQ83d0v7Ym+jZc8qTrtltVOH+r1U5k4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwqjrz1y0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/faces/face_2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6wXaULtqJWZYQ83d0v7Ym+jZc8qTrtltVOH+r1U5k4E="
+        }
+      ]
+    },
+    {
+      "Route": "images/faces/face_2.png",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6wXaULtqJWZYQ83d0v7Ym+jZc8qTrtltVOH+r1U5k4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:39:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6wXaULtqJWZYQ83d0v7Ym+jZc8qTrtltVOH+r1U5k4E="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1589,7 +1900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 14:29:31 GMT"
+          "Value": "Mon, 14 Apr 2025 18:47:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1626,7 +1937,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 14:29:31 GMT"
+          "Value": "Mon, 14 Apr 2025 18:47:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1663,7 +1974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 14:29:31 GMT"
+          "Value": "Mon, 14 Apr 2025 18:47:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1708,7 +2019,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 14:29:31 GMT"
+          "Value": "Mon, 14 Apr 2025 18:47:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6401,6 +6712,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bloh_1-1.dgeavkdcf0.jpg",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\bloh_1-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "578021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rYbE4BRUcU5fYB84BlLY8TltA1osEUDOXo5JFeO67Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 13:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgeavkdcf0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bloh_1-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rYbE4BRUcU5fYB84BlLY8TltA1osEUDOXo5JFeO67Y0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bloh_1-1.jpg",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\bloh_1-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "578021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rYbE4BRUcU5fYB84BlLY8TltA1osEUDOXo5JFeO67Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 13:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rYbE4BRUcU5fYB84BlLY8TltA1osEUDOXo5JFeO67Y0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fasting.5ydyeenwy0.webp",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\fasting.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HbHIixSfjQgOYGnp/lo4wUIdrC8dacfFMirwytQWrBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 13:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ydyeenwy0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fasting.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HbHIixSfjQgOYGnp/lo4wUIdrC8dacfFMirwytQWrBA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fasting.webp",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\fasting.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HbHIixSfjQgOYGnp/lo4wUIdrC8dacfFMirwytQWrBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 13:49:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HbHIixSfjQgOYGnp/lo4wUIdrC8dacfFMirwytQWrBA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/figure-65.4rhg4rlloj.png",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\figure-65.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IOIywCEQkhTpcHtsOlj02do1ZjqkV2PmTrYy3NXrzS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rhg4rlloj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/figure-65.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IOIywCEQkhTpcHtsOlj02do1ZjqkV2PmTrYy3NXrzS8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/figure-65.png",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\figure-65.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IOIywCEQkhTpcHtsOlj02do1ZjqkV2PmTrYy3NXrzS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:37:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IOIywCEQkhTpcHtsOlj02do1ZjqkV2PmTrYy3NXrzS8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_2025-04-07_12-30-18.jpg",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-07_12-30-18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2O2zs5hptMETQ50L7oOYJvSu03Jry4L2nzRj2Z3q6RQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:38:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2O2zs5hptMETQ50L7oOYJvSu03Jry4L2nzRj2Z3q6RQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_2025-04-07_12-30-18.kx6beqw6l1.jpg",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-07_12-30-18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2O2zs5hptMETQ50L7oOYJvSu03Jry4L2nzRj2Z3q6RQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 07:38:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kx6beqw6l1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/photo_2025-04-07_12-30-18.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2O2zs5hptMETQ50L7oOYJvSu03Jry4L2nzRj2Z3q6RQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_2025-04-11_15-48-02.22uo8b7jw9.jpg",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-11_15-48-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KvIfQAzCrfAP8nWz5jXJ2LHv0klOMhmm2hfsyMIUvUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 13:49:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22uo8b7jw9"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/photo_2025-04-11_15-48-02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KvIfQAzCrfAP8nWz5jXJ2LHv0klOMhmm2hfsyMIUvUo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/photo_2025-04-11_15-48-02.jpg",
+      "AssetFile": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-11_15-48-02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KvIfQAzCrfAP8nWz5jXJ2LHv0klOMhmm2hfsyMIUvUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 13:49:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KvIfQAzCrfAP8nWz5jXJ2LHv0klOMhmm2hfsyMIUvUo="
         }
       ]
     }

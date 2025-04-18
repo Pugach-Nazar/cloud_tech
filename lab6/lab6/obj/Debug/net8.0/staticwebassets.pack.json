@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_1.png",
+      "PackagePath": "staticwebassets\\images\\faces\\face_1.png"
+    },
+    {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\images\\faces\\face_2.png",
+      "PackagePath": "staticwebassets\\images\\faces\\face_2.png"
+    },
+    {
       "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -243,6 +251,26 @@
     {
       "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\bloh_1-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bloh_1-1.jpg"
+    },
+    {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\fasting.webp",
+      "PackagePath": "staticwebassets\\uploads\\fasting.webp"
+    },
+    {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\figure-65.png",
+      "PackagePath": "staticwebassets\\uploads\\figure-65.png"
+    },
+    {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-07_12-30-18.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photo_2025-04-07_12-30-18.jpg"
+    },
+    {
+      "Id": "D:\\Навчання\\cloudtech\\lab6\\lab6\\wwwroot\\uploads\\photo_2025-04-11_15-48-02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photo_2025-04-11_15-48-02.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lab6.props",

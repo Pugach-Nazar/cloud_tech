@@ -1,0 +1,53 @@
+﻿@model lab6.Models.ImageAnalysisResultModel
+
+<div class="container py-4">
+    <h2 class="mb-4 text-center">Image Analysis</h2>
+
+    <form asp-action="Index" method="post" enctype="multipart/form-data" class="card shadow-sm p-4 mb-5">
+        <div class="mb-3">
+            <label for="file" class="form-label">Upload an image:</label>
+            <input type="file" class="form-control" id="file" name="file" />
+        </div>
+        <button type="submit" class="btn btn-success">Analyze</button>
+    </form>
+
+    @if (Model != null && !string.IsNullOrEmpty(Model.ImagePath))
+    {
+        <div class="card shadow-sm p-4">
+            <div class="text-center mb-4">
+                <img src="@Model.ImagePath" alt="Analyzed image" class="img-fluid rounded border" style="max-height: 500px; max-width: 100%;" />
+            </div>
+
+            <h4 class="mb-3 text-center">Analysis Results</h4>
+
+            <div class="mb-3">
+                <strong>Description:</strong>
+                <p>@Model.Description</p>
+            </div>
+
+            @if (Model.Categories.Any())
+            {
+                <div class="mb-3">
+                    <strong>Categories:</strong>
+                    <p>@string.Join(", ", Model.Categories)</p>
+                </div>
+            }
+
+            @if (Model.Tags.Any())
+            {
+                <div class="mb-3">
+                    <strong>Tags:</strong>
+                    <p>@string.Join(", ", Model.Tags)</p>
+                </div>
+            }
+
+            @if (Model.Objects.Any())
+            {
+                <div class="mb-0">
+                    <strong>Detected Objects:</strong>
+                    <p>@string.Join(", ", Model.Objects)</p>
+                </div>
+            }
+        </div>
+    }
+</div>

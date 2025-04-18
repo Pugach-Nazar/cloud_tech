@@ -1,8 +1,107 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Immersive Reader C# Quickstart";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@section Styles {
+    <style type="text/css">
+        .immersive-reader-button {
+            background-color: white;
+            margin-top: 5px;
+            border: 1px solid black;
+            float: right;
+        }
+
+        textarea {
+            width: 100%;
+            height: 150px;
+            margin-top: 20px;
+        }
+    </style>
+}
+
+<div class="container">
+    <h1 id="ir-title">Immersive Reader Demo</h1>
+
+    <label for="userInput">Enter text to read with Immersive Reader:</label>
+    <textarea id="userInput" placeholder="Type your text here..."></textarea>
+
+    <button class="immersive-reader-button" data-button-style="iconAndText" data-locale="en">Launch Immersive Reader</button>
+
+    <!-- Hidden content container for Immersive Reader -->
+    <div id="ir-content" lang="en-us" style="display: none;"></div>
+
+    <hr />
+
+    <h2>About Immersive Reader</h2>
+    <p>
+        Immersive Reader is a tool that helps improve reading comprehension for all kinds of readers.
+    </p>
 </div>
+
+@section Scripts {
+    <script src="https://ircdname.azureedge.net/immersivereadersdk/immersive-reader-sdk.1.4.0.js"></script>
+    <script>
+        async function getTokenAndSubdomainAsync() {
+            try {
+                const response = await fetch('@Url.Action("GetTokenAndSubdomain", "Home")');
+                const data = await response.json();
+
+                if (data.error) {
+                    throw new Error(data.error);
+                }
+
+                return data;
+            } catch (error) {
+                console.error("Error in getting token and subdomain:", error);
+                alert("Error in getting the Immersive Reader token and subdomain. Check the console.");
+                throw error;
+            }
+        }
+
+        $(".immersive-reader-button").click(function () {
+            handleLaunchImmersiveReader();
+        });
+
+        async function handleLaunchImmersiveReader() {
+            try {
+                const userInput = $("#userInput").val();
+                if (!userInput.trim()) {
+                    alert("Please enter some text.");
+                    return;
+                }
+
+                // Insert user text into the hidden content div
+                $("#ir-content").html(`<p>${userInput.replace(/\n/g, "<br>")}</p>`);
+
+                const response = await getTokenAndSubdomainAsync();
+                const token = response.token;
+                const subdomain = response.subdomain;
+
+                const data = {
+                    title: $("#ir-title").text(),
+                    chunks: [{
+                        content: $("#ir-content").html(),
+                        mimeType: "text/html"
+                    }]
+                };
+
+                const options = {
+                    onExit: exitCallback,
+                    uiZIndex: 2000
+                };
+
+                ImmersiveReader.launchAsync(token, subdomain, data, options)
+                    .catch(function (error) {
+                        alert("Error in launching the Immersive Reader. Check the console.");
+                        console.log(error);
+                    });
+            } catch (error) {
+                console.error("Error in launching Immersive Reader:", error);
+            }
+        }
+
+        function exitCallback() {
+            console.log("Immersive Reader closed.");
+        }
+    </script>
+}
